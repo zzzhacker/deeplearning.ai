@@ -1,2 +1,2 @@
-from .keras_yolo.py import *
-from .keras_darknet19.py import *
+from .keras_yolo import *
+from .keras_darknet19 import *
